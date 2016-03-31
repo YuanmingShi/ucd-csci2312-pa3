@@ -4,9 +4,6 @@
 
 #include "ErrorContext.h"
 
-/**
- * Acknowledgement: Donnie Pinkston, CALTECH
- */
 
 #include <cassert>
 #include <cstdlib>
